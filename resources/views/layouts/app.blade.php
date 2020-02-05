@@ -27,6 +27,9 @@
                     <div><img src="https://image.flaticon.com/icons/svg/87/87390.svg"style="height: 25px; border-right:1px solid #333333" class="pr-3"></div>
                     <div class="pl-3 pt-1">Instagram</div>
                 </a>
+                <div class="justify-content-center mx-5">
+                    <input type="search" id="search" placeholder="Search">
+                </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>

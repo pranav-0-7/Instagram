@@ -36,7 +36,7 @@
 
                </div>
                <div class="comment">
-                   <form class="d-flex align-items-center form-horizontal">
+                   <form action="/c" method="POST" enctype="multipart/form-data" class="d-flex align-items-center form-horizontal">
                         <label for="comment"></label>
                         <input type="form-control" id="comment" placeholder="Add a comment..." style="border:white" class="form-control">
                         <button type="button" class="ml-3 btn btn-outline-primary btn-md">Post</button>
