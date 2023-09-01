@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About Project
+This project is similar to how instagram functions, it was done during my internship period to get hands on experience with php Laravel.
+Steps to run project on your local host
+- npm install
+- https://gist.github.com/hootlex/da59b91c628a6688ceb1 (Follow this link)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
